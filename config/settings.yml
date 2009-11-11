@@ -1,0 +1,7 @@
+all:
+  .settings:
+    js_lib_jcrop:
+      dependencies: jquery
+      web_dir:      /sfJSLibJCropPlugin
+      js_files:     jquery.Jcrop.min.js
+      css_files:    jquery.Jcrop.css
